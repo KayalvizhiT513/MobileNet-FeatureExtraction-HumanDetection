@@ -1,0 +1,2 @@
+## negative patches
+From image 1 - 472 -> 626 patches collected
